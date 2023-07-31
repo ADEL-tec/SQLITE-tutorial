@@ -1,8 +1,9 @@
 # SQLite Tutorial Mobile App with Flutter and Dart
 
-<img src="images/Screenshot1.png" alt="App Screenshot" width="200" height="300">
-<img src="images/Screenshot2.png" alt="App Screenshot" width="200" height="300">
-
+<div style="display: flex;">
+  <img src="images/Screenshot1.png" alt="App Screenshot" width="400" height="900">
+  <img src="images/Screenshot2.png" alt="App Screenshot" width="400" height="900">
+</div>
 
 ## Overview
 
